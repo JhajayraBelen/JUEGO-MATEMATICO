@@ -1,0 +1,22 @@
+
+# Archivos generados por compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Archivos de configuración temporal
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de respaldo
+*.bak
+*.old
